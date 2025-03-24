@@ -9,5 +9,5 @@ int main(){
     avg= (n+m+o) / 3;
     printf("%d is average of three number", avg);
 
-    return 0;
+    return 0;   
 }

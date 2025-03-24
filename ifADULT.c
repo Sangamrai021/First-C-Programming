@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    // Your code goes here
     int n;
     printf("Enter age : ");
     scanf("%d", &n);
