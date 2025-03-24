@@ -15,7 +15,7 @@ int main() {
     }
     else{
         printf("not english character");
-    }
+    }                                              
 
     return 0;
 }
